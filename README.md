@@ -52,6 +52,7 @@ CALCULATE(
     'cleaned_churn_data'[Contract] = "Month-to-month",
     'cleaned_churn_data'[MonthlyCharges] >= 70
 )
+
 ---
 
 ## 💡 Strategic Business Recommendations
