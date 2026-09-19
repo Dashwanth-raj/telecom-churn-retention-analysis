@@ -52,23 +52,24 @@ CALCULATE(
     'cleaned_churn_data'[Contract] = "Month-to-month",
     'cleaned_churn_data'[MonthlyCharges] >= 70
 )
+```
 
 ---
 
 ## 💡 Strategic Business Recommendations
 
-1. **Incentivize Annual Migration:**
-   * **Finding:** Month-to-Month churn sits at 42.71% vs. 11.27% for 1-year commitments.
-   * **Action:** Launch a targeted campaign offering a 10%–15% incentive credit to convert month-to-month accounts to annual billing.
-   * **Impact:** Converting 25% of eligible accounts protects ~$21.7K in recurring monthly revenue.
+### 1. Incentivize Annual Migration
+- **Finding:** Month-to-Month churn sits at **42.71%** vs. **11.27%** for 1-year commitments.
+- **Action:** Launch a targeted campaign offering a 10%–15% incentive credit to convert month-to-month accounts to annual billing.
+- **Impact:** Converting 25% of eligible accounts protects ~$21.7K in recurring monthly revenue.
 
-2. **Revamp Days 0–90 Onboarding:**
-   * **Finding:** Nearly half (47.44%) of all customer churn happens during the first year of tenure.
-   * **Action:** Institute structured milestone check-ins at 30, 60, and 90 days with dedicated onboarding support agents.
+### 2. Revamp Days 0–90 Onboarding
+- **Finding:** Nearly half (**47.44%**) of all customer churn happens during the first year of tenure.
+- **Action:** Institute structured milestone check-ins at 30, 60, and 90 days with dedicated onboarding support agents.
 
-3. **Bundle Complimentary Tech Support:**
-   * **Finding:** Fiber Optic accounts without Tech Support experience catastrophic attrition compared to supported peers.
-   * **Action:** Provide 3 months of complimentary technical support with all new Fiber Optic activations to improve early adoption.
+### 3. Bundle Complimentary Tech Support
+- **Finding:** Fiber Optic accounts without Tech Support experience catastrophic attrition compared to supported peers.
+- **Action:** Provide 3 months of complimentary technical support with all new Fiber Optic activations to improve early adoption.
 
 ---
 
